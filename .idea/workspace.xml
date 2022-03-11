@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5555d11-3cf2-43e6-aa09-852073407f2d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Clothing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in.form" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Dboy_sign_in.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Electronics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Mini_proj.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Mini_proj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/Sports.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info.form" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/dboy_delivery_info.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/first_page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/home_page$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/home_page$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/home_page$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/home_page$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/home_page$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/home_page$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/home_page$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/home_page$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/home_page.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/home_page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/multiple_options_page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_in_page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page.class" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/build/classes/mini_proj/sign_up_page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Clothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Clothing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Dboy_sign_in.form" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Dboy_sign_in.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Dboy_sign_in.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Dboy_sign_in.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Electronics.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Electronics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Mini_proj.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Mini_proj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Sports.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/Sports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/dboy_delivery_info.form" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/dboy_delivery_info.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/dboy_delivery_info.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/dboy_delivery_info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/first_page.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/first_page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/home_page.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/home_page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/multiple_options_page.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/multiple_options_page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/sign_in_page.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/sign_in_page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject-main/src/mini_proj/sign_up_page.java" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject-main/src/mini_proj/sign_up_page.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26Fipaix3oeGSMFeaCAhdjxSNBb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5555d11-3cf2-43e6-aa09-852073407f2d" name="Changes" comment="" />
+      <created>1647025921935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647025921935</updated>
+      <workItem from="1647025926653" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
