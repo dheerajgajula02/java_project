@@ -1,1 +1,1 @@
-# miniproject
+# java_project
